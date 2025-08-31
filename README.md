@@ -89,21 +89,6 @@ Proximity Detected: 0
 Soil Sensor Reading: 80%
 Bin Full → Buzzer Alert
 
-🚀 How to Run
 
-Clone this repo:
-
-git clone https://github.com/your-username/smart-dustbin.git
-
-
-Open smart_dustbin.ino in Arduino IDE.
-
-Install required libraries.
-
-Connect hardware as per wiring table.
-
-Upload to Arduino board.
-
-Open Serial Monitor at 9600 baud to view live logs.
 
 
